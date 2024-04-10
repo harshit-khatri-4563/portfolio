@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&display=swap");
-
+/* final */
 *{
     margin: 0;
     padding: 0;
@@ -298,6 +298,7 @@ a{
     box-shadow: 0px 0px 40px #1f1f1f;
 
 }
+
 .project-card::after{
     content: "";
     position: absolute;
