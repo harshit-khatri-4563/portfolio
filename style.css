@@ -118,7 +118,11 @@ a{
     position: relative;
     z-index: 1;
   }
-  
+  .plus{
+    display: flex;
+    gap: 5.9rem ;
+    align-items: center;
+  }
   .btn-pink::before {
     content: "";
     position: absolute;
